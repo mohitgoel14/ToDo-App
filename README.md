@@ -14,7 +14,7 @@
 ##In another Terminal(For Frontend)
 - Open Terminal.
 - Run "cd Frontend".
-- Run "npm install" - This will install all the dependencies to host backend.
+- Run "npm install" - This will install all the dependencies to host Frontend.
 - Run "npm run dev".
 - Frontend is hosted in the given link in terminal.
 - Used MERN Stack to run it anywhere.
