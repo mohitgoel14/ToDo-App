@@ -1,6 +1,7 @@
 ##TODO APP
 - A Full stack app using MERN
 - Organised Front-end and Backend File
+- To run it, you must have installed nodejs
 
 ##INSTRUCTIONS TO START PROJECT(For Backend)
 
