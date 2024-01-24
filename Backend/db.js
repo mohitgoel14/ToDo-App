@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 
 mongoose.connect(
-  "mongodb+srv://mohitgoel14:Mohit%401407@mohitgoel14.zwztqb4.mongodb.net/"
+  "mongodb+srv://<userid>:<password>@sample.zwztqb4.mongodb.net/"
 );
 
 const todoSchema = mongoose.Schema({
